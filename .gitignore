@@ -1,0 +1,7 @@
+config.json
+binaries/
+old/
+bin/
+.vscode/
+*.exe
+*.zip
